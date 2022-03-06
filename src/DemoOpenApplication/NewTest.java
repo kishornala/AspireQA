@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 public class NewTest {
   @Test
-  public void f() throws InterruptedException {
+  public void aspireDemo() throws InterruptedException {
 	  
 	  
 	  
@@ -161,6 +161,8 @@ public class NewTest {
    { System.out.println("New Manufacturing Order is created with correct information " + s);  
  	  
    }
+   
+   driver.quit();
    
   }
   

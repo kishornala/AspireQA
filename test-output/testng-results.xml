@@ -2,15 +2,15 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="30008" started-at="2022-03-06T01:58:51 IST" finished-at="2022-03-06T01:59:21 IST">
+  <suite name="Default suite" duration-ms="31622" started-at="2022-03-06T23:57:59 IST" finished-at="2022-03-06T23:58:31 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="30008" started-at="2022-03-06T01:58:51 IST" finished-at="2022-03-06T01:59:21 IST">
+    <test name="Default test" duration-ms="31622" started-at="2022-03-06T23:57:59 IST" finished-at="2022-03-06T23:58:31 IST">
       <class name="DemoOpenApplication.NewTest">
-        <test-method status="PASS" signature="f()[pri:0, instance:DemoOpenApplication.NewTest@76707e36]" name="f" duration-ms="29973" started-at="2022-03-06T01:58:51 IST" finished-at="2022-03-06T01:59:21 IST">
+        <test-method status="PASS" signature="aspireDemo()[pri:0, instance:DemoOpenApplication.NewTest@131276c2]" name="aspireDemo" duration-ms="31585" started-at="2022-03-06T23:57:59 IST" finished-at="2022-03-06T23:58:31 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- f -->
+        </test-method> <!-- aspireDemo -->
       </class> <!-- DemoOpenApplication.NewTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
